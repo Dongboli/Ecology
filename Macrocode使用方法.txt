@@ -1,0 +1,5 @@
+1) make sure i to 1,2,3....; j to 7X0.5,7x1,14x0.5...
+
+2) The first path choose results/20180418/1,The second path choose :results/20180418/1. Otherwise you have to add list[i] or list[j] to keep the path correct.
+
+3) Make sure organise the folder be the same, e.g.results folder should have same empty folder first.
